@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /cv
 title: CV
 years: [2021, 2020, 2019]
 ---
