@@ -122,7 +122,7 @@ blockquote {
 // Navbar customization
 
 .navbar {
-  box-shadow: 8px 8px red-color;
+  box-shadow: 8px 8px solid var(--global-texthover-color);
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 100;
