@@ -122,13 +122,13 @@ blockquote {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 8px 8px red-color;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 100;
 }
 .navbar .dropdown-menu {
-  background-color: var(--global-navbardropdown-color);
+  background-color: var(--global-distill-app-color);
   border: 1px solid var(--global-divider-color);
   a:not(.active) {
     color: var(--global-text-color);
