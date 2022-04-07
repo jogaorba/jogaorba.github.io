@@ -42,6 +42,7 @@
                   {%- endif -%}
                 </a>
               </li>
+              {%- endif -%}
               {% if site.cv_name %}
               <!-- CV -->
               <li class="nav-item {% if page.url contains 'cv' %}active{% endif %}">
@@ -51,8 +52,8 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
-
+                  {%- endif -%}
+                  
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "title" -%}
               {%- for p in sorted_pages -%}

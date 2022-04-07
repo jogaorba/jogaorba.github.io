@@ -9,3 +9,5 @@ _site
 Gemfile.lock
 vendor
 
+layout/theme.liquid
+templates/blog.json
