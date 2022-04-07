@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: CV
 years: [2021, 2020, 2019]
 ---
