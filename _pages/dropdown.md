@@ -2,6 +2,7 @@
 layout: page
 title: Research Plan
 nav: true
+nav_index: 5
 dropdown: true
 children: 
     - title: Print history
