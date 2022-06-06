@@ -13,4 +13,6 @@ Best for introductory courses. Idea is to provide students with a variety of pro
 
 # Project management:
 
+# Static Sites Teaching and Research:
 
+Olivia M. Wikle (University of Idaho), Evan Peter Williamson (University of Idaho): https://github.com/learn-static
