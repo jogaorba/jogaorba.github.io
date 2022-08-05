@@ -2,22 +2,27 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://liberalarts.utexas.edu/spanish/graduate-program/profile.php?id=jgo384#home'>Affiliations</a>. PhD Student, Department of Spanish and Portuguese, UT Austin.
+subtitle: <a href='https://www.lib.utk.edu/scholar/services/FIX_ME'>Affiliations</a>. Assistant Professor and Digital Scholarship Librarian, <a href='https://www.lib.utk.edu/scholar'>"Scholars'Collaborative"</a>, University of Tennessee, Knoxville.
 
 profile:
   align: right
-  image: prof_pic.jpg
-<!--  address: >
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>-->
+  image: profile_pic.jpg
+<!--  address: >-->
+    <p>University of Tennessee Libraries</p>
+    <p>236G John C. Hodges Library</p>
+    <p>1015 Volunteer Boulevard</p>
+    <p>Knoxville, TN 37923</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in the Department of Spanish and Portuguese, University of Texas at Austin. My work combines cultural studies and digital methodologies in the study of 19th-century abolitionist and racial discourses of Cuban, Puerto Rican and Brazilian immigrant newspapers. My research is funded by the Andrew Mellon Foundation Grant-in-Aid program of the University of Houston [U.S. Latino Digital Humanities (USLDH) program](https://artepublicopress.com/digital-humanities). 
+I am an Assistant Professor and the Digital Scholarship Librarian of the Scholars' Collaborative. I provide instruction, workshops, and consultations on just about anything related to digital scholarship and digital humanities. This is a new role for me and I am learning as I go from the fantastic folks in the University of Tennessee Libraries and the mentors, collaborators, and friends I have made along the way. 
+
+I expect to expand on my past and future interests in teaching, scholarship, service, and library work as I grow into my role. The information below is the academic and professional path I followed to get to my current position.
+
+In May 2022, I graduated with a Ph.D. in Iberian and Latin American Literatures and Cultures from the Department of Spanish and Portuguese, University of Texas at Austin. My dissertation combined cultural studies and digital methodologies in the study of 19th-century abolitionist and racial discourses of Cuban, Puerto Rican and Brazilian immigrant newspapers. My research was funded by the Andrew Mellon Foundation Grant-in-Aid program of the University of Houston [U.S. Latino Digital Humanities (USLDH) program](https://artepublicopress.com/digital-humanities).    
 
 My research is informed by my work as a cultural heritage profession in institutions that include the [Latin American Digital Initiatives](https://ladi-prod.lib.utexas.edu/en/home) at the LLILAS Benson Latin American Studies and Collections, the Puerto Rico Architectural Heritage Archive, and the Library of Congress.
 
