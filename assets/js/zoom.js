@@ -1,8 +1,17 @@
-// Initialize medium zoom.
-$(document).ready(function() {
-  medium_zoom = mediumZoom('[data-zoomable]', {
-    margin: 100,
-    background: getComputedStyle(document.documentElement)
-        .getPropertyValue('--global-bg-color') + 'ee',  // + 'ee' for trasparency.
-  })
-});
+// Has to be in the head tag, otherwise a flicker effect will occur.
+let initTheme = (theme) => {
+  if (theme == null) {
+    const userPref = window.matchMedia;
+    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
+        theme = 'dark';
+    }
+  }
+
+  if (theme)  {
+    document.documentElement.setAttribute('data-theme', theme)
+  }
+
+  localStorage.setItem("theme", theme);
+}
+
+initTheme(localStorage.getItem("theme"));
