@@ -8,8 +8,9 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Joshua G. Ortiz Baco
   avatar: bio-photo.jpg
-  bio: "Assistant Professor and Digital Scholarship Librarian,<a href='https://www.lib.utk.edu/scholar'>Scholars Collaborative</a>, University of Tennessee, Knoxville."
-  email: #emailaddress
+  bio: "Assistant Professor & Digital Scholarship Librarian,
+ <a href='https://www.lib.utk.edu/scholar'> Scholars Collaborative</a>, University of Tennessee, Knoxville."
+  email: scholarsco@utk.edu
   # Do not include the @ symbol in your Twitter username
   twitter: jgob
   linkedin: joshua-g-ortiz-baco

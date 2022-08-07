@@ -9,7 +9,7 @@ I am an Assistant Professor and the Digital Scholarship Librarian of the Scholar
 
 I expect to expand on my past and future interests in teaching, scholarship, service, and library work as I grow into my role. The information below is the academic and professional path I followed to get to my current position.
 
-## Past Projects and Interests
+##### Past Projects and Interests
 
 - In May 2022, I graduated with a Ph.D. in Iberian and Latin American Literatures and Cultures from the Department of Spanish and Portuguese, University of Texas at Austin. My dissertation combined cultural studies and digital methodologies in the study of 19th-century abolitionist and racial discourses of Cuban, Puerto Rican and Brazilian immigrant newspapers. My research was funded by the Andrew Mellon Foundation Grant-in-Aid program of the University of Houston [U.S. Latino Digital Humanities (USLDH) program](https://artepublicopress.com/digital-humanities).    
 
