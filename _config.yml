@@ -6,26 +6,26 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Joshua G. Ortiz Baco
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "I am an Assistant Professor and the Digital Scholarship Librarian of the Scholars' Collaborative. I provide instruction, workshops, and consultations on just about anything related to digital scholarship and digital humanities. This is a new role for me and I am learning as I go from the fantastic folks in the University of Tennessee Libraries and the mentors, collaborators, and friends I have made along the way."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  twitter: jgob
+  linkedin: joshua-g-ortiz-baco
+  github: jogaorba
+  orcid_id: 0000-0002-9723-4262
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: ssBtZ9UAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  stackoverflow: 19676947/joshua-ortiz
   xing: #username
   lastfm: #username
   tumblr: #username
