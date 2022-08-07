@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-#### New Job!
+### New Job!
 I am an Assistant Professor and the Digital Scholarship Librarian of the Scholars' Collaborative. I provide instruction, workshops, and consultations on just about anything related to digital scholarship and digital humanities. This is a new role for me and I am learning as I go from the fantastic folks in the University of Tennessee Libraries and the mentors, collaborators, and friends I have made along the way. 
 
 I expect to expand on my past and future interests in teaching, scholarship, service, and library work as I grow into my role. The information below is the academic and professional path I followed to get to my current position.
