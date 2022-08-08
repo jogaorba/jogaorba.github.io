@@ -11,17 +11,14 @@ Assistant Professor & Digital Scholarship Librarian,<a href='https://www.lib.utk
 
 `2016 - 2022`
 __University of Texas, Austin__
-
 PhD. Iberian and Latin American Literatures and Cultures
 
 `2013 - 2016`
 __Universidad de Puerto Rico, Río Piedras__
-
 M.A. Literatura Comparada
 
 `2011 - 2012`
 __Universidad Autónoma de Madrid__
-
 M.A. Literaturas Hispánicas 
 
 ## Awards
@@ -42,18 +39,18 @@ Foreign Language Area Studies Summer Fellowship, Rio de Janeiro, Brazil
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-### Journals
+### <span style="color: red"> Journals</span>
 
 `2021`
 “Navigating the Mise-en-Page: Interpretive Machine Learning Approaches to the Visual Layouts of Multi-Ethnic Periodicals”, Proceedings of the Computing Humanities Research Conference 2021. Co-authored with Sarah Salter, Benjamin Lee, and Jim Casey. 
 
-### Public Humanities
+### <span style="color: red"> Public Humanities</span>
 
 `2021`		
-[“Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part II”](https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/), _The Signal_, Library of Congress, co-authored with Maria Capecchi and Abigail Tick
+“Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part II”](https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/), _The Signal_, Library of Congress, co-authored with Maria Capecchi and Abigail Tick
 
 `2021`		
-<a href=https://youtu.be/6pCi0tjRv6Y target="_blank">“Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press”</a>, U.S. Latino Digital Humanities Center, Recovering the US Hispanic Literary Heritage University of Houston
+<a href="https://youtu.be/6pCi0tjRv6Y" target="_blank">“Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press”, U.S. Latino Digital Humanities Center, Recovering the US Hispanic Literary Heritage University of Houston
 
 `2020`		
 <a href="https://www.neh.gov/blog/reimagining-searching-chronicling-america" target="_blank">“Reimagining Searching in Chronicling America”</a>, _Division of Preservation and Access Blog_, National Endowment for the Humanities
