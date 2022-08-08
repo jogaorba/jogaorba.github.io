@@ -4,7 +4,7 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-
+ 
 ### New Job!
 
 I am an Assistant Professor and the Digital Scholarship Librarian of the Scholars' Collaborative. I provide instruction, workshops, and consultations on just about anything related to digital scholarship and digital humanities. This is a new role for me and I am learning as I go from the fantastic folks in the University of Tennessee Libraries and the mentors, collaborators, and friends I have made along the way. 
