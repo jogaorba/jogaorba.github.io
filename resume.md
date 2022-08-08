@@ -46,11 +46,11 @@ Foreign Language Area Studies Summer Fellowship, Rio de Janeiro, Brazil
 
 _Public Humanities_
 
-`2021`		
-<a href="https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/" target="_blank">, “Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part 2", <em>The Signal</em>, Library of Congress, co-authored with Maria Capecchi and Abigail Tick
+`2021` 
+<a href="https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/" target="_blank"> “Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part 2",</a>, <em>The Signal</em>, Library of Congress, co-authored with Maria Capecchi and Abigail Tick
 
 `2021`		
-<a href="https://youtu.be/6pCi0tjRv6Y" target="_blank">“Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press”, U.S. Latino Digital Humanities Center, Recovering the US Hispanic Literary Heritage University of Houston
+<a href="https://youtu.be/6pCi0tjRv6Y" target="_blank">“Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press”</a>, U.S. Latino Digital Humanities Center, Recovering the US Hispanic Literary Heritage University of Houston
 
 `2020`		
 <a href="https://www.neh.gov/blog/reimagining-searching-chronicling-america" target="_blank">“Reimagining Searching in Chronicling America”</a>, _Division of Preservation and Access Blog_, National Endowment for the Humanities
@@ -59,8 +59,7 @@ _Public Humanities_
 <a href="https://www.neh.gov/blog/title-essays-linked-data-and-ethnic-press-chronicling-america" target="_blank"> "Title Essays, Linked Data, and the Ethnic Press in Chronicling America"</a>, _Division of Preservation and Access Blog_, National Endowment for the Humanities
 
 `2020`		
-<a href="https://doi.org/10.46430/phes0046" target="_blank"> “Introducción a ImagePlot y la visualización de metadatos de colecciones 
-de Imágenes”</a>, _The Programming Historian en Español 4_
+<a href="https://doi.org/10.46430/phes0046" target="_blank"> “Introducción a ImagePlot y la visualización de metadatos de colecciones de Imágenes”</a>, _The Programming Historian en Español 4_
 
 
 ## Invited Talks
@@ -97,7 +96,8 @@ de Imágenes”</a>, _The Programming Historian en Español 4_
 ## Occupation
 
 `Current`
-__Assistant Professor & Digital Scholarship Librarian__, Scholars' Collaborative, John C. Hodges Library, University of Tennesse, Knoxville 
+__Assistant Professor & Digital Scholarship Librarian__, 
+Scholars' Collaborative, John C. Hodges Library, University of Tennesse, Knoxville 
 
 - Provide instruction related to digital humanities projects and digital scholarship
 - Assist with incorporating digital scholarship into teaching and curriculum
