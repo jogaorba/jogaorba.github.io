@@ -11,25 +11,29 @@ Assistant Professor & Digital Scholarship Librarian,<a href='https://www.lib.utk
 
 `2016 - 2022`
 __University of Texas, Austin__
+
 PhD. Iberian and Latin American Literatures and Cultures
 
 `2013 - 2016`
 __Universidad de Puerto Rico, Río Piedras__
+
 M.A. Literatura Comparada
 
 `2011 - 2012`
 __Universidad Autónoma de Madrid__
+
 M.A. Literaturas Hispánicas 
 
 ## Awards
 
 `2020-2021`
-Graduate School Thematic Diversity Dissertation Fellowship, 
-College of Liberal Arts, UT Austin.
+
+_Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press_, Grant-in-Aid, Andrew W. Mellon Foundation and U.S. Latino Digital Humanities Program, University of Houston
 
 `2020-2021`
 
-Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press, Grant-in-Aid, Andrew W. Mellon Foundation and U.S. Latino Digital Humanities Program, University of Houston
+Graduate School Thematic Diversity Dissertation Fellowship, 
+College of Liberal Arts, UT Austin.
 
 `2018`
 
@@ -38,7 +42,6 @@ Foreign Language Area Studies Summer Fellowship, Rio de Janeiro, Brazil
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
 `2021`
@@ -105,7 +108,7 @@ __Assistant Professor & Digital Scholarship Librarian__, Scholars' Collaborative
 
 
 
-Last updated: May 2013<!-- ### Footer
+Last updated: August 2022<!-- ### Footer
 
  -->
 

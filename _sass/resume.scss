@@ -75,7 +75,7 @@
 .resume h2 {
   font-size: 1.5em;
   color: $highlightcolor;
-  position: relative;
+  position: left;
   text-align: left;
   margin-top: 1.7em;
 }
@@ -88,7 +88,7 @@ div#resume.resume{
   font-size: 1.25em;
   line-height: 2em;
   color: $lowlightcolor;
-  position: relative;
+  position: left;
   top: 1.7em;
   text-align: right;
   width: 30%;
