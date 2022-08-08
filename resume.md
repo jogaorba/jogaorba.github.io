@@ -25,7 +25,7 @@ M.A. Literaturas Hispánicas
 
 `2020-2021`
 
-_Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press_, Grant-in-Aid, Andrew W. Mellon Foundation and U.S. Latino Digital Humanities Program, University of Houston
+*Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press*, Grant-in-Aid, Andrew W. Mellon Foundation and U.S. Latino Digital Humanities Program, University of Houston
 
 `2020-2021`
 
@@ -39,12 +39,12 @@ Foreign Language Area Studies Summer Fellowship, Rio de Janeiro, Brazil
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-### <span style="color: red"> Journals</span>
+*Journals*
 
 `2021`
 “Navigating the Mise-en-Page: Interpretive Machine Learning Approaches to the Visual Layouts of Multi-Ethnic Periodicals”, Proceedings of the Computing Humanities Research Conference 2021. Co-authored with Sarah Salter, Benjamin Lee, and Jim Casey. 
 
-### <span style="color: red"> Public Humanities</span>
+_Public Humanities_
 
 `2021`		
 “Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part II”](https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/), _The Signal_, Library of Congress, co-authored with Maria Capecchi and Abigail Tick
