@@ -1,5 +1,5 @@
-_site/*
-.sass-cache/*
-.idea/*
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
 .DS_Store
-images/8AB6EC84-6FBE-4D81-8031-9BAEE55EACE9.JPG
