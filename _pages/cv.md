@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /cv/
-title: "CV"
+#title: "CV"
 ---
 ## Currently
 
