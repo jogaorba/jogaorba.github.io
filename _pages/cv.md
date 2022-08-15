@@ -1,7 +1,7 @@
 ---
-layout: resume
-menuorder: 3
-menutitle: Resume
+layout: default
+permalink: /cv/
+title: "CV"
 ---
 ## Currently
 
