@@ -3,26 +3,30 @@ layout: archive
 permalink: /cv/
 #title: "CV"
 ---
-## Currently
+## Occupation
 
-Assistant Professor & Digital Scholarship Librarian
-<a href='https://www.lib.utk.edu/scholar'> Scholars Collaborative, University of Tennessee Libraries</a>
+__Assistant Professor & Digital Scholarship Librarian__,<br> 
+<a href="https://www.lib.utk.edu/scholar">Scholars' Collaborative, John C. Hodges Library, University of Tennesse, Knoxville</a> 
+
+- Provide instruction related to digital humanities projects and digital scholarship
+- Assist with incorporating digital scholarship into teaching and curriculum
+- Organize and lead workshops on digital resources, methods, and tools.
 
 ## Education
 
 `2016 - 2022`
 
-__University of Texas, Austin__
+__University of Texas, Austin__<br>
 PhD. Iberian and Latin American Literatures and Cultures
 
 `2013 - 2016`
 
-__Universidad de Puerto Rico, Río Piedras__
+__Universidad de Puerto Rico, Río Piedras__<br>
 M.A. Literatura Comparada
 
 `2011 - 2012`
 
-__Universidad Autónoma de Madrid__
+__Universidad Autónoma de Madrid__<br>
 M.A. Literaturas Hispánicas 
 
 ## Awards
@@ -111,17 +115,6 @@ _Public Humanities_
 `2018` 	
 
 “Los abolicionismos de expatriados en O Novo Mundo y El Mundo Nuevo/La América Ilustrada", XXXVI Congreso Internacional de la Asociación de Estudios Latinoamericanos, Latin American Studies Association. 
-
-## Occupation
-
-`Current`
-
-__Assistant Professor & Digital Scholarship Librarian__, 
-Scholars' Collaborative, John C. Hodges Library, University of Tennesse, Knoxville 
-
-- Provide instruction related to digital humanities projects and digital scholarship
-- Assist with incorporating digital scholarship into teaching and curriculum
-- Organize and lead workshops on digital resources, methods, and tools.
 
 
 <!-- ### Footer-->
