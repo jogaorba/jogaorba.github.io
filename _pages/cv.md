@@ -6,23 +6,18 @@ permalink: /cv/
 
 __Occupation__
 
-<em>Assistant Professor & Digital Scholarship Librarian<em>
+<em>Assistant Professor & Digital Scholarship Librarian<em><br>
 <a href="https://www.lib.utk.edu/scholar">Scholars' Collaborative, <br>John C. Hodges Library<br> University of Tennesse, Knoxville</a> 
 
 
 ### Education
 
-<ins>**2016-2022**</ins><br>__University of Texas, Austin__ PhD. Iberian and Latin American Literatures and Cultures
+<ins>**2016-2022**</ins><br>PhD. Iberian and Latin American Literatures and Cultures<br>University of Texas, Austin<br> 
 
-<ins>**2013-2016**</ins>
+<ins>**2013-2016**</ins><br>M.A. Literatura Comparada<br>Universidad de Puerto Rico, Río Piedras
 
-__Universidad de Puerto Rico, Río Piedras__
-M.A. Literatura Comparada
 
-<ins>**2011-2012**</ins>
-
-__Universidad Autónoma de Madrid__
-M.A. Literaturas Hispánicas 
+<ins>**2011-2012**</ins><br>M.A. Literaturas Hispánicas<br>Universidad Autónoma de Madrid
 
 ### Publications
 
