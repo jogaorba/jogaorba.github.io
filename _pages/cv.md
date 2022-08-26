@@ -12,15 +12,15 @@ __Occupation__
 
 ### Education
 
-<ins>**2016-2022**</ins>
-__University of Texas, Austin__
-PhD. Iberian and Latin American Literatures and Cultures
+<ins>**2016-2022**</ins><br>__University of Texas, Austin__ PhD. Iberian and Latin American Literatures and Cultures
 
 <ins>**2013-2016**</ins>
+
 __Universidad de Puerto Rico, Río Piedras__
 M.A. Literatura Comparada
 
 <ins>**2011-2012**</ins>
+
 __Universidad Autónoma de Madrid__
 M.A. Literaturas Hispánicas 
 
@@ -30,15 +30,18 @@ M.A. Literaturas Hispánicas
 #### *Journals*
 
 <ins>**2021**</ins>
+
 “Navigating the Mise-en-Page: Interpretive Machine Learning Approaches to the Visual Layouts of Multi-Ethnic Periodicals”, <em>Proceedings of the Computing Humanities Research Conference 2021<em>. Co-authored with Sarah Salter, Benjamin Lee, and Jim Casey. 
 
 #### _Public Humanities_
 
 <ins>**2021**</ins> 
+
 <a href="https://blogs.loc.gov/thesignal/2021/08/sparking-the-datamagination-2021-digital-strategy-summer-intern-design-sprint-part-ii/" target="_blank"> “Sparking the Datamagination: 2021 Digital Strategy Summer Intern Design Sprint part 2"</a>, <em>The Signal</em>, Library of Congress, co-authored with Maria Capecchi and Abigail Tick	
 
 <a href="https://youtu.be/6pCi0tjRv6Y" target="_blank">“Unearthing Brazilian, Cuban, and Puerto Rican Abolitionism in 19th Century US Press”</a>, U.S. Latino Digital Humanities Center, Recovering the US Hispanic Literary Heritage University of Houston
 
+---
 <ins>**2020**</ins>		
 <a href="https://www.neh.gov/blog/reimagining-searching-chronicling-america" target="_blank">“Reimagining Searching in Chronicling America”</a>, _Division of Preservation and Access Blog_, National Endowment for the Humanities
 
@@ -52,7 +55,9 @@ M.A. Literaturas Hispánicas
 <ins>**2021**</ins>	
 “Computational Periodical Studies in the Multiethnic Press”, sponsored by the Honors Program Speaker Series, Texas A&M-Corpus Christi.
 
+---
 <ins>**2020**</ins>
+
 “Title Essays and the Ethnic Press in Chronicling America”, presented as part of the panel discussion “Seeing Editors: Metadata, Machine Learning, and the Shapes of Social Justice”, sponsored by the National Digital Newspaper Program, National Endowment for the Humanities, and the Library of Congress. 
 
 “Programming Historian: trabajo multilingüe e implicaciones disciplinarias en las humanidades digitales”, <em>1era Jornada de Humanidades Digitais<em>, Laboratório em Rede de Humanidades Digitais - LARHUD, Instituto Brasileiro de Informação em Ciência e Tecnologia.
@@ -63,17 +68,23 @@ M.A. Literaturas Hispánicas
 
 “A Computational Periodicals Unconference: Exploring New Opportunities for Critical and Collaborative Inquiry”, co-organized with Dr. Jim Casey, Dr. Sarah Salter, and Benjamin Charles Germain Lee, DH Unbound 2022. Sponsored by the Association for Computers and the Humanities and Canadian Society for Digital Humanities.
 
+---
 <ins>**2021**</ins>
+
 “Visualizing Abolition in 19th Century U.S. Immigrant Press”, Digital Humanities Summer Institute Conference and Colloquium, University of Victoria, Canada.
 
-<ins>**2019**</ins> 	
+---
+<ins>**2019**</ins>
+
 “Digital Pedagogy and Methodology to Connect Diverse Communities”, Digital Frontiers, UT Austin.
 
 “La lógica del empeño en la reescritura del imaginario nacional en ‘La mucama de Omicunlé’”, <em>XXXVII Congreso Internacional de la Asociación de Estudios Latinoamericanos, Latin American Studies Association<em>. 
 
 “Cuerpos empeñados y presentes precarios en la literatura de Rita Indiana”, <em>XXXVII Congreso Internacional de la Asociación de Estudios Latinoamericanos, Latin American Studies Association<em>, Special section organizer and chair.
 
-<ins>**2018**</ins> 	
+---
+<ins>**2018**</ins>
+
 “Los abolicionismos de expatriados en O Novo Mundo y El Mundo Nuevo/La América Ilustrada", <em>XXXVI Congreso Internacional de la Asociación de Estudios Latinoamericanos, Latin American Studies Association<em>. 
 
 ### Awards
