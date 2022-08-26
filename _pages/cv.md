@@ -12,7 +12,7 @@ __Occupation__
 
 ### Education
 
-<ins>**2016-2022**</ins><br>PhD. Iberian and Latin American Literatures and Cultures<br>University of Texas, Austin<br> 
+<u>**2016-2022**</u><br>PhD. Iberian and Latin American Literatures and Cultures<br>University of Texas, Austin<br> 
 
 <ins>**2013-2016**</ins><br>M.A. Literatura Comparada<br>Universidad de Puerto Rico, Río Piedras
 
