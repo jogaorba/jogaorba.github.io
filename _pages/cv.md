@@ -15,8 +15,7 @@ __Assistant Professor & Digital Scholarship Librarian__,<br>
 
 ## Education
 
-__2016-2022__
-
+<u><em>2016-2022<</em></u>
 __University of Texas, Austin__<br>
 PhD. Iberian and Latin American Literatures and Cultures
 
