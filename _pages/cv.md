@@ -3,7 +3,7 @@ layout: archive
 permalink: /cv/
 #title: "CV"
 ---
-## Occupation
+
 
 __Assistant Professor & Digital Scholarship Librarian__,<br> 
 <a href="https://www.lib.utk.edu/scholar">Scholars' Collaborative, John C. Hodges Library, University of Tennesse, Knoxville</a> 
